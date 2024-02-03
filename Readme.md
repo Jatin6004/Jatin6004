@@ -1,5 +1,6 @@
 # 💫 About Me:
-* 🌱I'm currently learning and working on Building LLM Applications and Generative AI.<br> * ⚡ Looking to collaborate on machine learning and ai projects
+* 🌱I'm currently learning and working on Building LLM Applications and Generative AI.
+* ⚡ Looking to collaborate on machine learning and ai projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/JatinKayasth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-kayasth/) 
